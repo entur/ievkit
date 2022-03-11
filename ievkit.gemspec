@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'figaro', '~> 1.2.0'
   spec.add_dependency 'faraday_middleware', '~> 1.2.0'
-  spec.add_dependency 'rest-client', '~> 1.8.0'
+  spec.add_dependency 'rest-client', '~> 2.1.0'
   spec.add_dependency  'redis', '~>3.2'
 
   spec.add_development_dependency 'bundler', '~> 1.11'
