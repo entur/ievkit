@@ -33,6 +33,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency  'redis', '~>3.2'
 
   spec.add_development_dependency 'bundler', '~> 2.4'
-  spec.add_development_dependency 'rake', '~> 11.1'
+  spec.add_development_dependency 'rake', '~> 12.3'
   spec.add_development_dependency 'rspec'
 end
